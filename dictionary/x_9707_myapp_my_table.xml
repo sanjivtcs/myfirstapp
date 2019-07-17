@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="My Table" max_length="40" name="x_9707_myapp_my_table" type="collection">
+        <element label="Age" max_length="40" name="age" type="string"/>
+        <element label="name" max_length="40" name="name" type="string"/>
+    </element>
+</database>
